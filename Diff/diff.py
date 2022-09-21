@@ -39,7 +39,6 @@ author_check = []
 for mms_dlxs in dlxs_dict.keys():
     for mms_alma in alma_dict.keys():
         if dlxs_dict[mms_dlxs][0] == mms_alma:
-            print("got it")
             match = []
             match.append(mms_alma)
             match.append(dlxs_dict[mms_dlxs][1])

@@ -33,7 +33,7 @@ for dlxs_entry in dlxs[1:]:
         if dlxs_entry[1] == row[1]:
             dlxs_title = dlxs_entry[2]
             new_cat_search_link = f'https://search.lib.umich.edu/catalog?library=All+libraries&query={encode(dlxs_title)}'
-            print(new_cat_search_link)
+            #print(new_cat_search_link)
             new_search_links.append([row[0], new_cat_search_link])
 
 mu.write_csv("new_search_links.csv", new_search_links)

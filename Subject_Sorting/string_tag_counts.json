@@ -1,0 +1,22 @@
+{
+  "['Philippines']": 2203,
+  "['Virgin Islands']": 443,
+  "['Cuba']": 160,
+  "[]": 474,
+  "['Indonesia']": 5,
+  "['Philippines', 'Indonesia']": 3,
+  "['Hawaii']": 468,
+  "['Polynesia']": 22,
+  "['Puerto Rico']": 288,
+  "['Hawaii', 'Polynesia']": 12,
+  "['Philippines', 'Hawaii', 'Polynesia']": 1,
+  "['Philippines', 'Hawaii']": 5,
+  "['Philippines', 'Hawaii', 'Puerto Rico', 'Cuba']": 3,
+  "['Guam']": 38,
+  "['Philippines', 'Puerto Rico', 'Cuba']": 4,
+  "['Puerto Rico', 'Cuba']": 3,
+  "['Guam', 'Polynesia']": 1,
+  "['Philippines', 'Cuba']": 3,
+  "['Puerto Rico', 'Virgin Islands']": 17,
+  "['Philippines', 'Puerto Rico']": 1
+}

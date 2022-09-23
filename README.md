@@ -1,4 +1,5 @@
 
+
 # University of Michigan Library Digital Collection Metadata Assessment and Remediation Project
 
 February 2022 - Present. A pilot project remediating the metadata for the University of Michigan's ["The United States and its Territories, 1870 - 1925: The Age of Imperialism"](https://quod.lib.umich.edu/p/philamer/) digital colleciton.
@@ -21,4 +22,8 @@ Each step in our process is separated into its own folder in this repository. Th
 
 - In **DIFF**, our diff.py script compares the two versions of the colleciton metadata held in alma_full.csv and dxls_full.csv. Our script matches collection items on their mms id numbers and then loops through each of the item's fields, flagging any differences beween the two (with some stripping away of formatting differences and whitespace). If differences existed between a field value, those fields were written to the matches.csv document. Additionally, because we expected the Alma metadata to be more robust and up-to-date, we flagged in our matches.csv document any field where the length of the DLXS value was longer for further investigation.
 
-- We work with this matches.csv document further in **Building_CheckLists**. In building_checklists.py, we loop through the matches.csv document ...
+- We work with this matches.csv document further in **Building_CheckLists**. In building_checklists.py, we loop through each record in the matches.csv document along with the alma_full.csv and dxls_full.csv documents and developed a "check list" for each metadata attribute in the CheckLists subdirectory, populated by ALMA and DLXS values for each record that was flagged as having a longer DLXS value. These CSVs were uploaded to Google Sheets for manual review by the team. Additionally, a running, consolidated 'best version' CSV was created with field values not DLXS-longer flagged, prefering the ALMA values where any discrepenacy existed.
+
+- **Consolidating_Values** contains an Edited_Sheets subdirectory with the check lists established in the previous step, but with our team's manually reviewed reccomednations included in them. We loop through the best_values.csv and add our new suggested field values from these editied sheets in our merging_best_values.py script. The consolidated version with complete field values is held in the new_full_best_values.csv document.
+
+- In

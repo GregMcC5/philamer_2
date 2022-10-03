@@ -111,8 +111,8 @@ for row in subject_entries[1:]:
                 guam_list.extend(re.findall("guåhan.*", entry[2].lower()))
                 guam_counter = len(guam_list)
                 #--puerto rico
-                puerto_rico_list = re.findall("puerto rico.*", entry[2].lower())
-                puerto_rico_list.extend(re.findall("porto rico.*", entry[2].lower()))
+                puerto_rico_list = re.findall("puerto ric.*", entry[2].lower())
+                puerto_rico_list.extend(re.findall("porto ric.*", entry[2].lower()))
                 puerto_rico_counter = len(puerto_rico_list)
                 #--cuba
                 cuba_list = re.findall("cuba.*", entry[2].lower())
@@ -156,7 +156,7 @@ for row in subject_entries[1:]:
                     new_row = [entry[0],entry[1],guess, new_full_tag_list, phillipines_counter, hawaii_counter, guam_counter, puerto_rico_counter, cuba_counter, virgin_islands_counter, polynesia_counter, f"title checked: {title}"]
                     subject_entries[subject_entries.index(row)] = new_row
 
-mu.write_csv("editied_subject_entries.csv", subject_entries)
+mu.write_csv("edited_subject_entries.csv", subject_entries)
 
 print("update counter:", update_counter)
 
@@ -169,40 +169,41 @@ for row in subject_entries[1:]:
     else:
         aggregator[guess] = 1
 
-mu.write_json("subject_counts", aggregator)
+mu.write_json("subject_counts.json", aggregator)
 
 #----getting phi language list----
-total_list_phi = []
-language_flags = ("dictionary", "dictionaries", "diccionario", "diccionarios", "grammar", "gramática", "gramatica", "text", "texts")
 
-for row in subject_entries[1:]:
-    if row[2] == "Philippines":
-        keywords = row[-1]
-        keywords = keywords.split("', '")
-        for flag in language_flags:
-            for keyword in keywords:
-                if flag in keyword.lower():
-                    lang_keyword = keyword
-                    #language keyword establishied
-                    potential_lang = lang_keyword.split(" -- ")[0].split(" ")[0].replace("['", "")
-                    if potential_lang not in total_list_phi:
-                        total_list_phi.append(potential_lang)
+# total_list_phi = []
+# language_flags = ("dictionary", "dictionaries", "diccionario", "diccionarios", "grammar", "gramática", "gramatica", "text", "texts")
 
-remove_list = ("Christian", "Geography", "x", "Songs,", "Central", "Botany", "English", "keywords", "title", "Spanish")
-for removal_term in remove_list:
-    try:
-        total_list_phi.remove(removal_term)
-    except:
-        continue
+# for row in subject_entries[1:]:
+#     if row[2] == "Philippines":
+#         keywords = row[-1]
+#         keywords = keywords.split("', '")
+#         for flag in language_flags:
+#             for keyword in keywords:
+#                 if flag in keyword.lower():
+#                     lang_keyword = keyword
+#                     #language keyword establishied
+#                     potential_lang = lang_keyword.split(" -- ")[0].split(" ")[0].replace("['", "")
+#                     if potential_lang not in total_list_phi:
+#                         total_list_phi.append(potential_lang)
 
-phi_lang_test_list = []
-for row in subject_entries:
-    if row[2] == "Unable to Determine":
-        for lang in total_list_phi:
-            if lang.lower() in row[-1].lower():
-                phi_lang_test_list.append([row[0], row[1], row[2], lang, "Suggested: Philippines", row[-1]])
+# remove_list = ("Christian", "Geography", "x", "Songs,", "Central", "Botany", "English", "keywords", "title", "Spanish")
+# for removal_term in remove_list:
+#     try:
+#         total_list_phi.remove(removal_term)
+#     except:
+#         continue
 
-mu.write_csv("phi_lang_test.csv", phi_lang_test_list)
+# phi_lang_test_list = []
+# for row in subject_entries:
+#     if row[2] == "Unable to Determine":
+#         for lang in total_list_phi:
+#             if lang.lower() in row[-1].lower():
+#                 phi_lang_test_list.append([row[0], row[1], row[2], lang, "Suggested: Philippines", row[-1]])
+
+# mu.write_csv("phi_lang_test.csv", phi_lang_test_list)
 
 #----full tag counts----
 flag_counters = {}

@@ -4,12 +4,12 @@
 
 February 2022 - Present. A pilot project remediating the metadata for the University of Michigan's ["The United States and its Territories, 1870 - 1925: The Age of Imperialism"](https://quod.lib.umich.edu/p/philamer/) digital colleciton.
 
-Further documentation on this project can be found in our [final report](https://docs.google.com/document/d/15NfpqtLPfcfQ1oiRX9NhGXweel1XqYJVHg5A7OBwCT4/edit#).
+Further documentation on this project can be found in our [report](https://docs.google.com/document/d/15NfpqtLPfcfQ1oiRX9NhGXweel1XqYJVHg5A7OBwCT4/edit#).
 ## Authors
 
 - Jackson Huang
-- Curtis Hunt
-- Gregory McCollum
+- Curtis Hunt   
+- Gregory McCollum (gregmcc@umich.edu)
 
 
 
@@ -26,4 +26,6 @@ Each step in our process is separated into its own folder in this repository. Th
 
 - **Consolidating_Values** contains an Edited_Sheets subdirectory with the check lists established in the previous step, but with our team's manually reviewed reccomednations included in them. We loop through the best_values.csv and add our new suggested field values from these editied sheets in our merging_best_values.py script. The consolidated version with complete field values is held in the new_full_best_values.csv document.
 
-- In
+- The **Catalog_Linking** directory contains scripts that develop a CSV of information inlcuding a search URL for the University of Michigan Library catalog on the basis of the title of each record. Some of the main records for this colleciton in the U of M catalog lack a link to the digital collection item. We used these sheets to manually review the catalog search results in Google Sheets to identify these records without digital colleciton links and adding the catalog identification numbers for the corresponding digital collection items.
+
+

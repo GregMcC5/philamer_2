@@ -171,40 +171,6 @@ for row in subject_entries[1:]:
 
 mu.write_json("subject_counts.json", aggregator)
 
-#----getting phi language list----
-
-# total_list_phi = []
-# language_flags = ("dictionary", "dictionaries", "diccionario", "diccionarios", "grammar", "gramática", "gramatica", "text", "texts")
-
-# for row in subject_entries[1:]:
-#     if row[2] == "Philippines":
-#         keywords = row[-1]
-#         keywords = keywords.split("', '")
-#         for flag in language_flags:
-#             for keyword in keywords:
-#                 if flag in keyword.lower():
-#                     lang_keyword = keyword
-#                     #language keyword establishied
-#                     potential_lang = lang_keyword.split(" -- ")[0].split(" ")[0].replace("['", "")
-#                     if potential_lang not in total_list_phi:
-#                         total_list_phi.append(potential_lang)
-
-# remove_list = ("Christian", "Geography", "x", "Songs,", "Central", "Botany", "English", "keywords", "title", "Spanish")
-# for removal_term in remove_list:
-#     try:
-#         total_list_phi.remove(removal_term)
-#     except:
-#         continue
-
-# phi_lang_test_list = []
-# for row in subject_entries:
-#     if row[2] == "Unable to Determine":
-#         for lang in total_list_phi:
-#             if lang.lower() in row[-1].lower():
-#                 phi_lang_test_list.append([row[0], row[1], row[2], lang, "Suggested: Philippines", row[-1]])
-
-# mu.write_csv("phi_lang_test.csv", phi_lang_test_list)
-
 #----full tag counts----
 flag_counters = {}
 for row in subject_entries[1:]:

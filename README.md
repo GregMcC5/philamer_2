@@ -1,6 +1,6 @@
 
 
-# University of Michigan Library Digital Collection Metadata Assessment and Remediation Project
+# Digital Collection Metadata Assessment and Remediation Project - University of Michigan Library
 
 February 2022 - Present. A pilot project remediating the metadata for the University of Michigan's ["The United States and its Territories, 1870 - 1925: The Age of Imperialism"](https://quod.lib.umich.edu/p/philamer/) digital colleciton.
 
@@ -27,5 +27,7 @@ Each step in our process is separated into its own folder in this repository. Th
 - **Consolidating_Values** contains an Edited_Sheets subdirectory with the check lists established in the previous step, but with our team's manually reviewed reccomednations included in them. We loop through the best_values.csv and add our new suggested field values from these editied sheets in our merging_best_values.py script. The consolidated version with complete field values is held in the new_full_best_values.csv document.
 
 - The **Catalog_Linking** directory contains scripts that develop a CSV of information inlcuding a search URL for the University of Michigan Library catalog on the basis of the title of each record. Some of the main records for this colleciton in the U of M catalog lack a link to the digital collection item. We used these sheets to manually review the catalog search results in Google Sheets to identify these records without digital colleciton links and adding the catalog identification numbers for the corresponding digital collection items.
+
+- In **Subject Sorting** we develop suggested tags for each record on the basis of place. In our subject_test.py we set up a series of Regular Expressions corresponding to each of the places represented. Our ...
 
 

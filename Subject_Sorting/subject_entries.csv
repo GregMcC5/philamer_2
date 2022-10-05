@@ -35,7 +35,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990002780410106381,ABE4397.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Hawaii -- History.']
 990004672350106381,ABZ6565.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898.']"
 990042350510106381,BBN0289.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
-990014860610106381,AGH8796.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Typhoons.']
+990014860610106381,AGH8796.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The cyclones of the Far East, by Rev. José Algué, S. J., director of the Philippine Weather bureau, Manila observatory ..."
 990010095910106381,AEG8734.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Tagalog literature -- History and criticism.']
 990012569020106381,AFJ2246.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- History -- To 1521.']
 990005985600106381,ACP0143.1875.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Hawaii -- Periodicals.']
@@ -180,7 +180,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990005042450106381,ACD4260.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Imperialism.', 'Philippines -- History -- Philippine American War, 1899-1902 -- Periodicals.', 'United States -- Foreign relations -- Philippines -- Periodicals.', 'Philippines -- Foreign relations -- United States -- Periodicals.', 'United States -- Territorial expansion.']"
 990008633720106381,ADS0342.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,keywords checked: ['Cuba -- Statistics.']
 990042335700106381,BBM8741.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
-990009383480106381,ADZ6209.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Spanish language -- Grammar.']
+990009383480106381,ADZ6209.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Casaysayan nang gramática Castellana / inihalal sa uicang Tagalog ni Don Sinforoso Apacible.
 990004663620106381,ABZ5679.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898 -- Foreign public opinion.']"
 990024438810106381,ALS0389.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Ethnology -- Philippines.', 'Philippines -- Census, 1818.', 'Philippines -- Population.', 'Philippines -- Emigration and immigration.']"
 990016234770106381,AGX9509.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Pilot guides -- Philippines']
@@ -443,7 +443,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990018183700106381,AHU5343.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Tagalog language -- Texts.', 'History in literature.']"
 990028611990106381,APZ7305.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Tagalog language -- Texts.', 'History in literature.', 'Tagalog literature.', 'Corridos.']"
 990028611760106381,APZ7282.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Tagalog literature.', 'Corridos.']"
-990010854850106381,AEQ7014.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Reformation -- Germany -- Biography.', 'Luther, Martin, -- 1483-1546.', 'Catholic Church -- History -- Modern period, 1500-.']"
+990010854850106381,AEQ7014.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Buhay ni Martin Lutero : dakilang reformador / [isinatagalog ni Sofronio G. Calderon].
 990028611720106381,APZ7278.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Tagalog literature.', 'Corridos.', 'Bible -- In literature.']"
 990007765540106381,ADH2500.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898.']"
 990000056790106381,AAA6267.0001.001,Unable to Determine,"['Philippines', 'Hawaii', 'Polynesia']",1,1,0,0,0,0,1,"keywords checked: ['Hawaii.', 'Philippines.', 'Polynesia.', 'United States -- Insular possessions.']"
@@ -490,8 +490,8 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990014473580106381,AGD8709.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Cuba -- History -- Insurrection, 1849-1851']"
 990012551300106381,AFJ0455.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Eastern question (Far East)', 'East Asia -- Foreign relations -- United States.', 'United States -- Foreign relations -- East Asia.']"
 990003282940106381,ABK5557.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['United States -- Territorial expansion.']
-990013598640106381,AFU8764.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Sulu language -- Writing.', 'Writing, Arabic']"
-990029150670106381,AQJ7899.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Sulu language -- Writing.', 'Writing, Arabic.']"
+990013598640106381,AFU8764.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Sulu writing, an explanation of the Sulu-Arabic script as employed in writing the Sulu language of the southern Philippines, by C. R. Cameron ..."
+990029150670106381,AQJ7899.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Sulu writing [microform] : an explanation of the Sulu-Arabic script as employed in writing the Sulu language of the southern Philippines / by C. R. Cameron.
 990030579790106381,ARB8047.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990002794500106381,ABE5826.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,keywords checked: ['Isla de Pinos (Cuba)']
 990020601660106381,AJV8399.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Criminal law -- Interpretation and construction.', 'Criminal law -- Philippines.']"
@@ -618,7 +618,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990012993670106381,AFN6163.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Chinese -- Philippines.']
 990018331930106381,AHW0328.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- Politics and government.', 'Philippines -- History -- 1812-1898.']"
 990033436040106381,ASK1009.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History -- 1898-1946.', 'Philippines -- Relations -- United States.', 'United States -- Relations -- Philippines.']"
-990035278690106381,ATF7595.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Ivatan language.']
+990035278690106381,ATF7595.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Part I: Batan dialect as member of Philippine group of languages. Part II: F and V in Philippine languages [comparisons of dialects].
 990012321570106381,AFF7168.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippine languages -- Phonology.']
 990003319940106381,ABK9313.0001.001,Philippines,['Philippines'],2,0,0,0,0,0,0,"keywords checked: ['Banks and banking -- Philippines.', 'Political corruption -- Philippines.', 'Philippines -- Politics and government -- 1898-1935', 'Philippines -- History', 'Banco Nacional Filipino.']"
 990012673040106381,AFK2852.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
@@ -639,7 +639,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990028611800106381,APZ7286.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Corridos.', 'Tagalog literature.']"
 990029093530106381,AQJ2115.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Pampanga language -- Texts.', 'Corridos.', 'Folk songs, Pampanga.']"
 990029129730106381,AQJ5792.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Pampanga language -- Texts.', 'Corridos.', 'Folk songs, Pampanga.']"
-990029129700106381,AQJ5789.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Pampanga language -- Texts.', 'Corridos.', 'Folk songs, Pampanga.']"
+990029129700106381,AQJ5789.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"title checked: Corrido qñg bie nang queralanan Domiciong cuba [microform] : qñg villang almazan ampon ding atlung Diosas a miparmansagan capalaran, sintiñgan at lugud qñg cayaria'ning Persia."
 990029129670106381,AQJ5786.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Pampanga language -- Texts.', 'Corridos.', 'Folk songs, Pampanga.']"
 990029129750106381,AQJ5794.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Pampanga language -- Texts.', 'Corridos.', 'Folk songs.']"
 990029093520106381,AQJ2114.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Folk songs, Pampanga.', 'Corridos.', 'Pampanga language -- Texts.']"
@@ -658,14 +658,14 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990037957620106381,AUJ8200.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Tagalog fiction -- Translations from English.', 'American fiction -- Translations into Tagalog.', 'Coryell, John Russell, -- 1851-1924. -- American marquis.', 'Coryell, John Russell, -- 1851-1924. -- Detective for vegenance.', 'Coryell, John Russell, -- 1851-1924. -- the Masked bride.']"
 990037957620106381,AUJ8200.0002.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Tagalog fiction -- Translations from English.', 'American fiction -- Translations into Tagalog.', 'Coryell, John Russell, -- 1851-1924. -- American marquis.', 'Coryell, John Russell, -- 1851-1924. -- Detective for vegenance.', 'Coryell, John Russell, -- 1851-1924. -- the Masked bride.']"
 990005772730106381,ACL8552.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Roosevelt, Theodore, -- 1858-1919.']"
-990015488990106381,AGQ3108.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Nature study.', 'Natural history -- Study and teaching.']"
+990015488990106381,AGQ3108.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Twenty chapters of a nature-study reader for the Philippine islands / John G. Coulter.
 990003041080106381,ABH1047.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines.']
 990002011280106381,AAW5949.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History Fiction. -- Philippine American War, 1899-1902']"
 990014472910106381,AGD8640.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,keywords checked: ['Cuba -- History -- To 1810.']
 990012614060106381,AFJ6840.0001.001,Guam,['Guam'],0,0,1,0,0,0,0,keywords checked: ['Guam.']
 990004657410106381,ABZ5053.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Spanish-American War, 1898.', 'Cuba -- History', 'Spain -- Colonies -- America']"
 990012567560106381,AFJ2100.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines.']
-990018710700106381,AHZ9295.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Rizal, José, -- 1861-1896.']"
+990018710700106381,AHZ9295.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Lineage, life and labors of Jose Rizal, Philippine patriot: a study of the growth of free ideas in the trans Pacific American territory, by Austin Craig ... Introduction by James AlexanderRobertson, I., II. p."
 990012567570106381,AFJ2101.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines.']
 990012673300106381,AFK2879.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Rizal, José, -- 1861-1896.']"
 990033126450106381,ASF9826.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- History.']
@@ -810,7 +810,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990029095380106381,AQJ2300.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Hiligaynon language -- Periodicals.']
 990019408270106381,AJH2405.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Dominicans -- Missions.', 'Dominicans -- Philippines.', 'Dominicans -- Asia.']"
 990012680980106381,AFK3681.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Hawaii -- Description and travel']
-990020916620106381,AJZ3508.0001.002,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Abaca (Plant)']
+990020916620106381,AJZ3508.0001.002,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Memoria preliminar sobre los terrenos de abacá de Filipinas, por Clarence W. Dorsey ...  [Vol. 1, no. 2]"
 990018418750106381,AHW9270.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990018418750106381,AHW9270.0001.002,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990029571530106381,AQP0201.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
@@ -975,7 +975,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990018897770106381,AJB9620.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,keywords checked: ['Cuba -- Economic conditions.']
 990018711630106381,AHZ9390.0001.001,Unable to Determine,"['Philippines', 'Cuba']",1,0,0,0,1,0,0,"keywords checked: ['Cuba -- History -- Revolution, 1895-1898.', 'Philippines -- History -- Revolution, 1896-1898.']"
 990014472780106381,AGD8627.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Military geography -- Cuba.', 'Cuba.']"
-990021899360106381,AKK7474.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898.']"
+990021899360106381,AKK7474.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: La guerra hispano-americana : Puerto-Rico y Filipinas / (con ocho planos y 15 fotograbados) por Severo Gómez Núñez.
 990015898840106381,AGU5333.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990006077700106381,ACP9465.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- Description and travel']
 990028006970106381,APT6488.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Cebuano drama.', 'Operetta -- Philippines Cebu.', 'Zarzuelas.']"
@@ -1081,7 +1081,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990032006270106381,ARS3574.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- Civilization.', 'Palau.', 'Mariana Islands.']"
 990043781530106381,AAA9679.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History.', 'United States -- Territories and possessions.']"
 990002396860106381,ABA5215.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- Description and travel.', 'Philippines -- History.']"
-990002792060106381,ABE5581.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898.']"
+990002792060106381,ABE5581.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"title checked: War map and history of Cuba, including the opening of the American-Spanish war; from the latest official and most authentic sources. By Lieut. E. Hannaford."
 990028007020106381,APT6493.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Bible stories, Toba-Batak.']"
 990027988580106381,APT4634.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990004672590106381,ABZ6590.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898.']"
@@ -1350,7 +1350,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990002785210106381,ABE4884.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Cuba -- History Speeches in Congress. -- Revolution, 1895-1898', 'Bayard, Thomas F. -- (Thomas Francis), -- 1828-1898.', 'United States. -- Commission to investigate and report upon the true divisional line between Venezuela and British Guiana.']"
 990018711490106381,AHZ9375.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990003336240106381,ABL0964.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Wood, Leonard, -- 1860-1927.']"
-990007766140106381,ADH2561.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898 -- Naval operations.', 'Spanish-American War, 1898 -- Prisoners and prisons.', 'Merrimac (Collier)']"
+990007766140106381,ADH2561.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"title checked: The sinking of the ""Merrimac""; : a personal narrative of the adventure in the harbor of Santiago de Cuba, June 3, 1898, and of the subsequent imprisonment of the survivors, / by Richmond Pearson Hobson."
 990008176280106381,ADM3963.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898 -- Regimental histories -- Minnesota.', 'Philippines -- History Regimental histories -- Philippine American War, 1899-1902 -- Minnesota.', 'Minnesota -- Militia.']"
 990028051400106381,APU0956.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Malay language -- Alphabet.']
 990009420320106381,AEA0032.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Manila (Philippines) -- Description and travel.']
@@ -1443,9 +1443,9 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990012902630106381,AFM6967.1919.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Jesuits -- Philippines -- Correspondence.', 'Jesuits -- Missions History -- Philippines -- 20th century.']"
 990028069610106381,APU2790.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- Population.', 'Philippines -- Commerce.']"
 990000492820106381,AAF1686.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['History -- Periodicals', 'Political science -- Periodicals.']"
-990041954670106381,BBH8418.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['World War, 1939-1945 -- Personal narratives, American.', 'Nurses -- United States.', 'World War, 1939-1945 -- Women -- United States.', 'World War, 1939-1945 -- Medical care.']"
+990041954670106381,BBH8418.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Ann Bartlett returns to the Philippines / Martha Johnson.
 990003282970106381,ABK5560.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['United States -- Territorial expansion.']
-990012570020106381,AFJ2348.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['United States -- Colonial question.']
+990012570020106381,AFJ2348.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Plain American talk in the Philippines.
 990042336520106381,BBM8824.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990042336400106381,BBM8812.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- Politics and government -- 1898-1935.', 'United States. -- Philippine Commission (1900-1916)']"
 990015009050106381,AGK4145.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Fishes -- Philippines.']
@@ -1509,7 +1509,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990018712790106381,AHZ9507.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Manila (Philippines) -- Guidebooks.']
 990011263390106381,AEU9217.0001.001,Unable to Determine,"['Philippines', 'Puerto Rico']",1,0,0,1,0,0,0,"keywords checked: ['Currency question -- India', 'Currency question -- Puerto Rico.', 'Currency question -- Philippines.', 'Currency question -- Straits Settlements.', 'Currency question -- Mexico']"
 990011494050106381,AEX3164.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- Politics and government.']
-990007765660106381,ADH2513.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898 -- Personal narratives.']"
+990007765660106381,ADH2513.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"title checked: Campaigning in Cuba, by George Kennan."
 990019728070106381,AJL5108.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990029704390106381,AQQ3588.0010.010,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- History Periodicals. -- 1898-1946']
 990029704390106381,AQQ3588.0010.012,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- History Periodicals. -- 1898-1946']
@@ -1684,7 +1684,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990002399290106381,ABA5460.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,"keywords checked: ['Voyages to the Pacific coast.', 'Hawaii -- Description and travel.', 'California -- Description and travel.']"
 990012612970106381,AFJ6730.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Hawaii.']
 990004665740106381,ABZ5896.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898 -- Participation, African American.']"
-990027070930106381,APF4940.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Agriculture -- Tropics.']
+990027070930106381,APF4940.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: A reader of elementary tropical agriculture : adapted to farming in the Philippine Islands / by William S. Lyon.
 990002392750106381,ABA4799.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,keywords checked: ['Cuba -- History.']
 990002791160106381,ABE5490.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Cuba -- History -- Insurrection, 1868-1878', 'Cuba -- Foreign relations']"
 990002766320106381,ABE2976.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Cuba -- Foreign relations', 'Madero, Francisco I., -- 1873-1913.']"
@@ -1760,7 +1760,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990014474980106381,AGD8859.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Catalans -- Cuba.', 'Cuba -- History']"
 990003275270106381,ABK4784.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['United States -- Description and travel.']
 990010524970106381,AEM3495.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Marinello, Juan, -- 1898-1977 -- ed.']"
-990006647140106381,ACV7299.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Confession -- Handbooks, manuals, etc.']"
+990006647140106381,ACV7299.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Práctica de confesar indios rudos Filipinos / por el P. Fr. Mariano Martínez Cuadrado.
 990012568720106381,AFJ2216.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- History.']
 990012568720106381,AFJ2216.0002.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- History.']
 990027119780106381,APF9884.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Spanish literature -- 20th century -- History and criticism.', 'Cuban literature -- History and criticism.']"
@@ -1884,8 +1884,8 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990012568150106381,AFJ2159.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- Social life and customs.']
 990012673000106381,AFK2848.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines.']
 990033435780106381,ASK0983.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History Atrocities. -- Philippine American War, 1899-1902', 'Root, Elihu, -- 1845-1937.']"
-990021050590106381,AKA8240.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Trypanosoma.', 'Trypanosomiasis.']"
-990027943960106381,APT0138.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898 -- Fiction.']"
+990021050590106381,AKA8240.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Trypanosoma and trypanosomiasis, with special reference to surra in the Philippine islands / By W.E. Musgrave, M.D., acting director, Biological laboratory, and Moses T. Clegg, assistant bacteriologist, Biological laboratory."
+990027943960106381,APT0138.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,title checked: Cuba libre ; a story of the Hispano-American war / by John R. Musick ; illustrations by Freeland A. Carter.
 990030097250106381,AQW9446.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Political parties -- Philippines -- History.', 'Philippines -- Politics and government -- 1898-1935.', 'Nacionalista Party (Philippines)']"
 990029571800106381,AQP0228.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Mass.', 'Catholic Church -- Liturgy.', 'Bible. -- Gospels -- Commentaries.']"
 990035896440106381,ATN0387.0001.001,Philippines,['Philippines'],2,0,0,0,0,0,0,"keywords checked: ['Tagalog fiction.', 'Love stories, Philippine.']"
@@ -1997,8 +1997,8 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990029129650106381,AQJ5784.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Novenas.', 'Rochus, -- Saint, -- approximately 1350-approximately 1380.', 'Catholic Church -- Prayers and devotions -- Tagalog.']"
 990029108060106381,AQJ3602.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Novenas.', 'Diego de Alcala, -- Saint.', 'Catholic Church -- Prayers and devotions -- Tagalog.']"
 990043527650106381,AHU9368.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
-990028697200106381,AQA5900.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Meditations.']
-990028697200106381,AQA5900.0002.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Meditations.']
+990028697200106381,AQA5900.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Pagtulad kay Cristo:  Thomas a' Kempis ; translated into Tagalog by Vicente Garcia.  [Vol. 1, no. 1]"
+990028697200106381,AQA5900.0002.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Pagtulad kay Cristo:  Thomas a' Kempis ; translated into Tagalog by Vicente Garcia.  [Vol. 2, no. 1]"
 990002031150106381,AAW7952.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['World War, 1914-1918 -- Naval operations', 'Spanish-American War, 1898 -- Personal narratives.', 'China -- History -- Boxer Rebellion, 1899-1901.']"
 990002594890106381,ABC5519.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Women -- Portraits.', 'Art, Philippine.', 'Ethnology -- Philippines.']"
 990019316350106381,AJG3032.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Catholic Church -- Controversial literature Catholic authors.', 'Catholic Church -- Apologetic works.']"
@@ -2191,129 +2191,129 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990035077130106381,ATD7328.0009.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Demarcation line of Alexander VI.', 'Missions -- Philippines.', 'Philippines -- History Sources.', 'Philippines -- Discovery and exploration.']"
 990035077130106381,ATD7328.0026.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Demarcation line of Alexander VI.', 'Missions -- Philippines.', 'Philippines -- History Sources.', 'Philippines -- Discovery and exploration.']"
 990035077130106381,ATD7328.0027.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Demarcation line of Alexander VI.', 'Missions -- Philippines.', 'Philippines -- History Sources.', 'Philippines -- Discovery and exploration.']"
-990006416020106381,ACT3868.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0001.002,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0001.003,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0001.004,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0001.005,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0001.006,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0001.SUP,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0010.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0010.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0010.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0010.00D,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0011.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0011.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0011.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0011.00D,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0012.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0012.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0012.00D,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0013.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0013.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0013.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0013.00D,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0014.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0015.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0016.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0017.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0018.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0019.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0002.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0002.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0002.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0002.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0020.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0021.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0022.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0023.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0024.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0025.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0026.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0027.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0028.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0029.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0003.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0003.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0003.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0003.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0030.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0031.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0032.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0033.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0034.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0035.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0036.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0037.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0038.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0039.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0004.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0004.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0004.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0004.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0040.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0041.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0042.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0043.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0044.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0045.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0046.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0047.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0048.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0049.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0005.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0005.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0005.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0005.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0005.00D,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0050.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0051.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0052.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0053.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0054.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0055.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0056.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0057.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0058.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0059.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0006.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0006.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0006.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0006.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0006.00D,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0060.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0061.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0062.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0063.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0064.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0065.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0066.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0067.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0068.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0069.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0007.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0007.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0007.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0007.00D,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0070.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0071.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0072.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0073.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0074.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0075.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0076.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0077.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0078.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0008.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0008.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0008.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0008.00D,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0009.00A,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0009.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0009.00C,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0009.00D,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.INDX.002,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
-990006416020106381,ACT3868.0012.00B,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Science -- Periodicals.']
+990006416020106381,ACT3868.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 1, no. 1]"
+990006416020106381,ACT3868.0001.002,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 1, no. 2]"
+990006416020106381,ACT3868.0001.003,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 1, no. 3]"
+990006416020106381,ACT3868.0001.004,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 1, no. 4]"
+990006416020106381,ACT3868.0001.005,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 1, no. 5]"
+990006416020106381,ACT3868.0001.006,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 1, no. 6]"
+990006416020106381,ACT3868.0001.SUP,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 1, no. UP]"
+990006416020106381,ACT3868.0010.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 10, no. A]"
+990006416020106381,ACT3868.0010.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 10, no. B]"
+990006416020106381,ACT3868.0010.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 10, no. C]"
+990006416020106381,ACT3868.0010.00D,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 10, no. D]"
+990006416020106381,ACT3868.0011.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 11, no. A]"
+990006416020106381,ACT3868.0011.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 11, no. B]"
+990006416020106381,ACT3868.0011.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 11, no. C]"
+990006416020106381,ACT3868.0011.00D,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 11, no. D]"
+990006416020106381,ACT3868.0012.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 12, no. A]"
+990006416020106381,ACT3868.0012.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 12, no. C]"
+990006416020106381,ACT3868.0012.00D,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 12, no. D]"
+990006416020106381,ACT3868.0013.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 13, no. A]"
+990006416020106381,ACT3868.0013.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 13, no. B]"
+990006416020106381,ACT3868.0013.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 13, no. C]"
+990006416020106381,ACT3868.0013.00D,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 13, no. D]"
+990006416020106381,ACT3868.0014.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 14, no. 1]"
+990006416020106381,ACT3868.0015.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 15, no. 1]"
+990006416020106381,ACT3868.0016.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 16, no. 1]"
+990006416020106381,ACT3868.0017.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 17, no. 1]"
+990006416020106381,ACT3868.0018.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 18, no. 1]"
+990006416020106381,ACT3868.0019.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 19, no. 1]"
+990006416020106381,ACT3868.0002.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 2, no. 1]"
+990006416020106381,ACT3868.0002.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 2, no. A]"
+990006416020106381,ACT3868.0002.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 2, no. B]"
+990006416020106381,ACT3868.0002.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 2, no. C]"
+990006416020106381,ACT3868.0020.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 20, no. 1]"
+990006416020106381,ACT3868.0021.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 21, no. 1]"
+990006416020106381,ACT3868.0022.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 22, no. 1]"
+990006416020106381,ACT3868.0023.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 23, no. 1]"
+990006416020106381,ACT3868.0024.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 24, no. 1]"
+990006416020106381,ACT3868.0025.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 25, no. 1]"
+990006416020106381,ACT3868.0026.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 26, no. 1]"
+990006416020106381,ACT3868.0027.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 27, no. 1]"
+990006416020106381,ACT3868.0028.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 28, no. 1]"
+990006416020106381,ACT3868.0029.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 29, no. 1]"
+990006416020106381,ACT3868.0003.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 3, no. 1]"
+990006416020106381,ACT3868.0003.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 3, no. A]"
+990006416020106381,ACT3868.0003.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 3, no. B]"
+990006416020106381,ACT3868.0003.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 3, no. C]"
+990006416020106381,ACT3868.0030.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 30, no. 1]"
+990006416020106381,ACT3868.0031.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 31, no. 1]"
+990006416020106381,ACT3868.0032.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 32, no. 1]"
+990006416020106381,ACT3868.0033.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 33, no. 1]"
+990006416020106381,ACT3868.0034.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 34, no. 1]"
+990006416020106381,ACT3868.0035.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 35, no. 1]"
+990006416020106381,ACT3868.0036.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 36, no. 1]"
+990006416020106381,ACT3868.0037.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 37, no. 1]"
+990006416020106381,ACT3868.0038.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 38, no. 1]"
+990006416020106381,ACT3868.0039.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 39, no. 1]"
+990006416020106381,ACT3868.0004.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 4, no. 1]"
+990006416020106381,ACT3868.0004.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 4, no. A]"
+990006416020106381,ACT3868.0004.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 4, no. B]"
+990006416020106381,ACT3868.0004.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 4, no. C]"
+990006416020106381,ACT3868.0040.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 40, no. 1]"
+990006416020106381,ACT3868.0041.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 41, no. 1]"
+990006416020106381,ACT3868.0042.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 42, no. 1]"
+990006416020106381,ACT3868.0043.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 43, no. 1]"
+990006416020106381,ACT3868.0044.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 44, no. 1]"
+990006416020106381,ACT3868.0045.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 45, no. 1]"
+990006416020106381,ACT3868.0046.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 46, no. 1]"
+990006416020106381,ACT3868.0047.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 47, no. 1]"
+990006416020106381,ACT3868.0048.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 48, no. 1]"
+990006416020106381,ACT3868.0049.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 49, no. 1]"
+990006416020106381,ACT3868.0005.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 5, no. 1]"
+990006416020106381,ACT3868.0005.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 5, no. A]"
+990006416020106381,ACT3868.0005.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 5, no. B]"
+990006416020106381,ACT3868.0005.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 5, no. C]"
+990006416020106381,ACT3868.0005.00D,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 5, no. D]"
+990006416020106381,ACT3868.0050.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 50, no. 1]"
+990006416020106381,ACT3868.0051.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 51, no. 1]"
+990006416020106381,ACT3868.0052.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 52, no. 1]"
+990006416020106381,ACT3868.0053.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 53, no. 1]"
+990006416020106381,ACT3868.0054.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 54, no. 1]"
+990006416020106381,ACT3868.0055.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 55, no. 1]"
+990006416020106381,ACT3868.0056.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 56, no. 1]"
+990006416020106381,ACT3868.0057.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 57, no. 1]"
+990006416020106381,ACT3868.0058.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 58, no. 1]"
+990006416020106381,ACT3868.0059.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 59, no. 1]"
+990006416020106381,ACT3868.0006.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 6, no. 1]"
+990006416020106381,ACT3868.0006.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 6, no. A]"
+990006416020106381,ACT3868.0006.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 6, no. B]"
+990006416020106381,ACT3868.0006.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 6, no. C]"
+990006416020106381,ACT3868.0006.00D,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 6, no. D]"
+990006416020106381,ACT3868.0060.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 60, no. 1]"
+990006416020106381,ACT3868.0061.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 61, no. 1]"
+990006416020106381,ACT3868.0062.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 62, no. 1]"
+990006416020106381,ACT3868.0063.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 63, no. 1]"
+990006416020106381,ACT3868.0064.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 64, no. 1]"
+990006416020106381,ACT3868.0065.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 65, no. 1]"
+990006416020106381,ACT3868.0066.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 66, no. 1]"
+990006416020106381,ACT3868.0067.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 67, no. 1]"
+990006416020106381,ACT3868.0068.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 68, no. 1]"
+990006416020106381,ACT3868.0069.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 69, no. 1]"
+990006416020106381,ACT3868.0007.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 7, no. A]"
+990006416020106381,ACT3868.0007.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 7, no. B]"
+990006416020106381,ACT3868.0007.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 7, no. C]"
+990006416020106381,ACT3868.0007.00D,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 7, no. D]"
+990006416020106381,ACT3868.0070.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 70, no. 1]"
+990006416020106381,ACT3868.0071.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 71, no. 1]"
+990006416020106381,ACT3868.0072.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 72, no. 1]"
+990006416020106381,ACT3868.0073.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 73, no. 1]"
+990006416020106381,ACT3868.0074.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 74, no. 1]"
+990006416020106381,ACT3868.0075.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 75, no. 1]"
+990006416020106381,ACT3868.0076.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 76, no. 1]"
+990006416020106381,ACT3868.0077.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 77, no. 1]"
+990006416020106381,ACT3868.0078.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 78, no. 1]"
+990006416020106381,ACT3868.0008.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 8, no. A]"
+990006416020106381,ACT3868.0008.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 8, no. B]"
+990006416020106381,ACT3868.0008.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 8, no. C]"
+990006416020106381,ACT3868.0008.00D,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 8, no. D]"
+990006416020106381,ACT3868.0009.00A,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 9, no. A]"
+990006416020106381,ACT3868.0009.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 9, no. B]"
+990006416020106381,ACT3868.0009.00C,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 9, no. C]"
+990006416020106381,ACT3868.0009.00D,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science.  [Vol. 9, no. D]"
+990006416020106381,ACT3868.INDX.002,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: The Philippine journal of science. [INDX]
+990006416020106381,ACT3868.0012.00B,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The Philippine journal of science. [Vol. 12, no. B]"
 990005058120106381,ACD5869.0001.012,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Education -- Philippines -- Periodicals.']
 990005058120106381,ACD5869.0001.003,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Education -- Philippines -- Periodicals.']
 990005058120106381,ACD5869.0001.004,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Education -- Philippines -- Periodicals.']
@@ -2350,7 +2350,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990005058120106381,ACD5869.0037.004,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Education -- Philippines -- Periodicals.']
 990005058120106381,ACD5869.0038.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Education -- Philippines -- Periodicals.']
 990005058120106381,ACD5869.0004.005,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Education -- Philippines -- Periodicals.']
-990006806200106381,ACX3431.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Ornithology -- Periodicals.', 'Birds -- Periodicals.']"
+990006806200106381,ACX3431.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Bulletin of the Philippine Museum.
 990032006240106381,ARS3571.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Nationalism -- Philippines -- History.', 'Philippines -- History.']"
 990020292890106381,AJS4843.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990030202580106381,AQY0048.1915.004,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Missions -- Philippines -- Periodicals.']
@@ -3015,7 +3015,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990010711650106381,AEP2547.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Portugal -- Colonies History -- Asia -- 16th century.', 'Portugal -- Colonies Commerce. -- Asia', 'Portugal -- Foreign relations -- Asia.']"
 990004658880106381,ABZ5200.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['World politics.', 'United States -- Territorial expansion.', 'United States -- Foreign relations']"
 990018734150106381,AJA1765.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Hawaii -- Kings and rulers.']
-990012321550106381,AFF7166.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Chamorro language -- Dictionaries English.', 'English language -- Dictionaries Chamorro.', 'Chamorro language -- Grammar.']"
+990012321550106381,AFF7166.0001.001,Guam,['Guam'],0,0,1,0,0,0,0,title checked: Dictionary and grammar of the Chamorro language of the island of Guam.
 990012613050106381,AFJ6738.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Hawaii -- Description and travel']
 990021838770106381,AKK1188.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- History -- To 1521.']
 990019902450106381,AJN3831.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Geodesy -- Hawaii.']
@@ -3275,11 +3275,11 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990030066750106381,AQW6372.1928.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Election law -- Philippines.']
 990028697390106381,AQA5920.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Cebuano language.', 'Bisayan languages -- Grammar.']"
 990028697400106381,AQA5921.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
-990028697410106381,AQA5922.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['United States -- Description and travel.', 'Rama, Esteban de la -- Travel -- United States.']"
+990028697410106381,AQA5922.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: De Filipinas a America [microform] : impresiones de viaje / por Esteban de la Rama.
 990028993220106381,AQH1998.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Short stories, Cebuano.', 'Cebuano language -- Texts.']"
 990027928700106381,APS8606.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Short stories, Cebuano.']"
 990011584850106381,AEY2511.0001.001,Unable to Determine,"['Philippines', 'Cuba']",1,0,0,0,1,0,0,"keywords checked: ['Constitutional law -- United States.', 'United States -- Colonial question', 'Philippines -- Politics and government -- 1898-1935.', 'Cuba -- Politics and government -- 1899-.']"
-990011005970106381,AES2326.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['East Asia -- Description and travel.', 'Australia -- Description and travel.']"
+990011005970106381,AES2326.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Japan-China, the Philippines, South Sea Islands and Australasia, 1918 [microform] : limited membership under personal escort, everything the best."
 990008132330106381,ADL9486.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Pangasinan language -- Grammar.', 'English language -- Dictionaries Pangasinan.', 'Pangasinan language -- Dictionaries English.']"
 990014473790106381,AGD8730.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Cuba -- History -- Revolution, 1895-1898.']"
 990007283740106381,ADC2791.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
@@ -3299,7 +3299,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990018797440106381,AJA8449.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Hawaii -- History.']
 990009771800106381,AED6049.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Prostitution -- Hawaii Honolulu.']
 990004655590106381,ABZ4871.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898 -- Naval operations.']"
-990004675360106381,ABZ6872.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['United States -- Colonial question']
+990004675360106381,ABZ6872.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Republic or empire? : The Philippine question, / By William Jennings Bryan, Adlai E. Stevenson, Gen. James B. Weaver, George F. Hoar, Arthur P. Gorman, William V. Allen, Marion Butler, Augustus O. Bacon, George W. Turner, Hernando D. Money, John L. McLaurin, George F. Edmunds, Samuel Gompers, David Starr Jordan, Charles A. Towne, Andrew Carnegie, John W. Daniel, George G. Vest, Henry M. Teller, Stephen M. White, William E. Mason, Benjamin R. Tillman, Horace R. Chilton, Alexander S. Clay, John G. Carlisle, Carl Schurz, Charles F. Adams, Henry Van Dyke, D.D., Henry U. Johnson, and others."
 990027148660106381,APG2809.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['San Ignacio de Loyola (Church : Manila, Philippines)']"
 990018254330106381,AHV2477.0001.001,Philippines,['Philippines'],2,0,0,0,0,0,0,"keywords checked: ['Filipinos -- Spain.', 'Philippines -- History -- Revolution, 1896-1898.']"
 990012742620106381,AFK9989.0001.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"keywords checked: ['College students -- Anthropometry -- Puerto Rico.', 'University of Puerto Rico (1903-1966) -- Students.']"
@@ -3424,7 +3424,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990015468990106381,AGQ1092.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Sugar -- Manufacture and refining -- Philippines.', 'Nypa palm.']"
 990030031650106381,AQW2840.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Ethnology -- Philippines.', 'Philippines -- History -- 1812-1898.', 'Philippines -- Social life and customs.']"
 990002865660106381,ABF2996.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- Description and travel']
-990012569290106381,AFJ2273.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Rizal, José, -- 1861-1896.']"
+990012569290106381,AFJ2273.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The hero of the Filipinos; the story of José Rizal, poet, patriot and martyr, by Charles Edward Russell and E. B. Rodriguez ...."
 990012567780106381,AFJ2122.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines.']
 990029027800106381,AQH5491.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish language -- Dictionaries Bisayan.', 'Bisayan languages -- Dictionaries Spanish.']"
 990029027800106381,AQH5491.0002.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish language -- Dictionaries Bisayan.', 'Bisayan languages -- Dictionaries Spanish.']"
@@ -3495,9 +3495,9 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990002395540106381,ABA5082.1944.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Cuba -- History', 'Cuba -- Biography.']"
 990004675310106381,ABZ6867.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Maine (Battleship)', 'Cuba -- History.', 'Cuba -- Foreign relations -- United States.', 'Plaza del Maine (Havana, Cuba)']"
 990029010670106381,AQH3755.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Bikol language -- Texts.', 'Jesus Christ -- Devotional literature.', 'Catholic Church -- Prayers and devotions -- Bikol.', 'Catholic Church -- Philippines -- Missions.']"
-990007765690106381,ADH2516.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898 -- Campaigns.']"
-990007765690106381,ADH2516.0002.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898 -- Campaigns.']"
-990007765690106381,ADH2516.0003.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898 -- Campaigns.']"
+990007765690106381,ADH2516.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"title checked: The campaign of Santiago de Cuba, by Herbert H. Sargent.  [Vol. 1, no. 1]"
+990007765690106381,ADH2516.0002.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"title checked: The campaign of Santiago de Cuba, by Herbert H. Sargent.  [Vol. 2, no. 1]"
+990007765690106381,ADH2516.0003.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"title checked: The campaign of Santiago de Cuba, by Herbert H. Sargent.  [Vol. 3, no. 1]"
 990012571000106381,AFJ2446.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- Description and travel.', 'Batangas (Philippines : Province)']"
 990012569510106381,AFJ2295.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History -- Revolution, 1896-1898.']"
 990002018150106381,AAW6643.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Hawaii -- Description and travel.']
@@ -3514,7 +3514,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990028612020106381,APZ7308.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Ilongot language -- Numerals.']
 990025834740106381,ANT0308.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Baguio (Philippines) -- History.']
 990028612010106381,APZ7307.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippine languages -- Verb.', 'English language -- Verb.']"
-990028612000106381,APZ7306.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Kinaray-a language -- Grammar.', 'Kinaray-a language -- Phoenetics.']"
+990028612000106381,APZ7306.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Uber einen bemerkenswerten l-stell-vertreter im dialekt von aklan aufder insel Panay (Filipinen) [microform] / von Otto Scheerer.
 990018710010106381,AHZ9220.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990035610080106381,ATK1627.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Genevière, -- of Brabant -- Fiction.']"
 990012612700106381,AFJ6702.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,"keywords checked: ['Honolulu (Hawaii) -- Guidebooks.', 'Hawaii -- Guidebooks.']"
@@ -3568,7 +3568,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990005774440106381,ACL8726.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Roosevelt, Theodore, -- 1858-1919 -- Portraits, caricatures, etc.']"
 990001852000106381,AAU9867.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History Personal narratives. -- Philippine American War, 1899-1902']"
 990018711340106381,AHZ9360.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History -- Philippine American War, 1899-1902.']"
-990024364910106381,ALR2894.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Gutta-percha.', 'Rubber.']"
+990024364910106381,ALR2894.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: The gutta percha and rubber of the Philippine Islands. By Penoyer L. Sherman, jr. PH.D."
 990018698370106381,AHZ8008.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['India -- Description and travel', 'Burma -- Description and travel', 'Manila (Philippines) -- Description and travel.']"
 990003210960106381,ABJ8302.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- Description and travel', 'East Asia -- Description and travel.']"
 990035609500106381,ATK1569.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Tagalog drama (Comedy)', 'Tagalog literature.']"
@@ -3587,7 +3587,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990008859670106381,ADU3257.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Education -- Philippines.', 'Philippines -- Social conditions.']"
 990002794510106381,ABE5827.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Isla de Pinos (Cuba)', 'Cuba -- Foreign relations -- United States.']"
 990007825480106381,ADH8563.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Colonial companies', 'Compradors', 'Philippines -- Economic conditions', 'Philippines -- Economic policy.']"
-990004663440106381,ABZ5660.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Santiago Campaign, 1898.', 'Spanish-American War, 1898 -- Personal narratives.']"
+990004663440106381,ABZ5660.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"title checked: The Santiago campaign : reminiscences of the operations for the capture of Santiago de Cuba in the Spanish-American war, June and July, 1898 / written by participants in the campaign and published by the Society of Santiago de Cuba."
 990017320550106381,AHK5954.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Yacht racing.', 'Viking IV (Schooner yacht)']"
 990043527540106381,AEQ7022.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990012681100106381,AFK3693.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Hawaii -- Annexation to the United States.']
@@ -3636,7 +3636,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990018734050106381,AJA1754.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Hawaii -- Description and travel']
 990016352100106381,AGZ2512.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,"keywords checked: ['Geology -- Hawaii.', 'Kilauea Volcano (Hawaii)']"
 990005400630106381,ACH0795.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History -- Philippine American War, 1899-1902.', 'Stone, Louis A. -- Around the world under ... the Stars and Stripes.']"
-990015029110106381,AGK6193.0001.001,Unable to Determine,"['Hawaii', 'Polynesia']",0,1,0,0,0,0,1,"keywords checked: ['Polynesian rat.', 'Mammals -- Hawaii.']"
+990015029110106381,AGK6193.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,"title checked: The Hawaiian rat,."
 990012570250106381,AFJ2371.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898.', 'Philippines -- History -- Philippine American War, 1899-1902.', 'Philippines -- Politics and government -- 1898-1935.', 'United States -- Colonial question.']"
 990006312730106381,ACS3343.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- Politics and government -- 1898-1935']
 990042336380106381,BBM8810.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- Politics and government -- 1898-1935.']
@@ -3660,7 +3660,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990003211650106381,ABJ8372.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- Description and travel.']
 990008783890106381,ADT5558.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History Atrocities. -- Philippine American War, 1899-1902']"
 990008783850106381,ADT5554.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History -- Philippine American War, 1899-1902 -- Sermons.']"
-990012908780106381,AFM7588.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Subanun language -- Study and teaching Bilingual method.', 'Subanun language -- Grammar.']"
+990012908780106381,AFM7588.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Subano-English : Zamboanga, Philippine Islands / ed. by D. O. Lund."
 990012754910106381,AFL1250.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Subanuns.', 'Subanun language.', 'Subanun language -- Dictionaries English.', 'English language -- Dictionaries Subanun.']"
 990036082660106381,ATQ0603.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990007766030106381,ADH2550.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['United States. -- Cavalry. -- 3d regiment, 1898 (Volunteer)']"
@@ -3719,7 +3719,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990028052140106381,APU1030.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Pampanga language -- Texts.', 'Pampanga literature.']"
 990035609660106381,ATK1585.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Tagalog poetry.']
 990028051330106381,APU0949.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Pampanga literature.']
-990028052130106381,APU1029.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Youth -- Conduct of life.']
+990028052130106381,APU1029.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Maring (Dangal at Lakas) [microform] : ulirang buhay Tagalog / sinulat ni Aurelio Tolentino.
 990007766080106381,ADH2555.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Manila (Philippines) -- History -- Siege, 1898.']"
 990017212000106381,AHJ5031.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990033426530106381,ASK0052.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- Economic conditions.', 'Manila (Philippines)']"
@@ -3737,7 +3737,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990012613730106381,AFJ6806.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Bishop, Charles Reed, -- 1822-1915.']"
 990008769860106381,ADT4137.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History -- Revolution, 1896-1898.']"
 990021902240106381,AKK7851.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines.']
-990005672720106381,ACK8437.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Aguinaldo, Emilio, -- 1869-1964.']"
+990005672720106381,ACK8437.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: Les hommes de révolution Aguinaldo et les Philippins / par Henri Turot; préface par Jean Jaures.
 990028052160106381,APU1032.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Manuscripts, Lampung.', 'Lampung language -- Texts.']"
 990006643330106381,ACV6914.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,"keywords checked: ['West (U.S.) -- Description and travel', 'Hawaii -- Description and travel']"
 990006643290106381,ACV6910.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,"keywords checked: ['West (U.S.) -- Description and travel.', 'Hawaii -- Description and travel.']"
@@ -3747,20 +3747,20 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990035638210106381,ATK4452.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Corridos.', 'Iloko literature.']"
 990029357310106381,AQL8698.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Corridos.', 'Iloko literature.']"
 990016235200106381,AGX9552.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,keywords checked: ['Pilot guides -- Hawaii.']
-990008894820106381,ADU6798.1903.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1905.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1907.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1909.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1911.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1913.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1915.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1917.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1919.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1919.002,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1921.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1923.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1926.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
-990008894820106381,ADU6798.1929.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Geomagnetism -- Observations']
+990008894820106381,ADU6798.1903.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1903]"
+990008894820106381,ADU6798.1905.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1905]"
+990008894820106381,ADU6798.1907.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1907]"
+990008894820106381,ADU6798.1909.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1909]"
+990008894820106381,ADU6798.1911.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1911]"
+990008894820106381,ADU6798.1913.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1913]"
+990008894820106381,ADU6798.1915.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1915]"
+990008894820106381,ADU6798.1917.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1917]"
+990008894820106381,ADU6798.1919.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1919]"
+990008894820106381,ADU6798.1919.002,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1919]"
+990008894820106381,ADU6798.1921.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1921]"
+990008894820106381,ADU6798.1923.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1923]"
+990008894820106381,ADU6798.1926.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1926]"
+990008894820106381,ADU6798.1929.001,Puerto Rico,['Puerto Rico'],0,0,0,1,0,0,0,"title checked: Results of observations made at the Coast and Geodetic Survey Magnetic Observatory at Vieques, Porto Rico. [1929]"
 990016234740106381,AGX9506.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Pilot guides -- Philippines.']
 990016234750106381,AGX9507.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Pilot guides -- Philippines.']
 990012993760106381,AFN6172.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History -- 1521-1812.', 'Philippines -- Discovery and exploration Spanish.', 'Urdaneta, Andrés de, -- 1498-1568.']"
@@ -3864,7 +3864,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990018734440106381,AJA1795.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990012681090106381,AFK3692.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990012673410106381,AFK2890.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- Politics and government -- 1898-1935.']
-990012673480106381,AFK2897.0001.001,Unable to Determine,"['Philippines', 'Puerto Rico']",1,0,0,1,0,0,0,"keywords checked: ['Philippines. -- Bureau of Audits.', 'Puerto Rico. -- Office of the auditor.']"
+990012673480106381,AFK2897.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,title checked: The Philippine islands.
 990017534800106381,AHM8964.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990018711480106381,AHZ9374.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- Politics and government -- 1898-1935.']
 990012673400106381,AFK2889.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,keywords checked: ['Philippines -- Politics and government -- 1898-1935.']
@@ -3995,7 +3995,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990000563960106381,AAF8892.1922.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990000563960106381,AAF8892.1924.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990019765260106381,AJL9007.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Education, Higher -- Philippines.', 'University of Santo Tomás. -- http://id.loc.gov/authorities/names/n81108961']"
-990014533330106381,AGE4844.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Benton, Guy Potter, -- 1865-1927.']"
+990014533330106381,AGE4844.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: A brief history of the University of the Philippines,"
 990004964550106381,ACC6284.0001.010,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990004964550106381,ACC6284.0001.011,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990004964550106381,ACC6284.0001.012,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
@@ -4021,7 +4021,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990005348770106381,ACG5458.1927.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990005348770106381,ACG5458.1928.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990005348770106381,ACG5458.1930.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
-990014533310106381,AGE4842.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Palma, Rafael, -- 1874-1939.']"
+990014533310106381,AGE4842.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Inauguration of Rafael Palma as fourth president of the University of the Philippines, Manila, Philippine Islands,"
 990006422510106381,ACT4528.1912.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990006422510106381,ACT4528.1916.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990006422510106381,ACT4528.1917.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
@@ -4089,10 +4089,10 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990003303080106381,ABK7602.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['Virgin Islands of the United States.']
 990002747780106381,ABE1101.0001.001,Unable to Determine,"['Philippines', 'Hawaii', 'Puerto Rico', 'Cuba']",1,1,0,1,1,0,0,"keywords checked: ['Philippines -- Description and travel.', 'Hawaii -- Description and travel.', 'Cuba -- Description and travel.', 'Puerto Rico -- Description and travel.']"
 990028972280106381,AQG9882.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Iloko language -- Dictionaries -- Spanish.', 'Iloko language -- Glossaries, vocabularies, etc.']"
-990029571540106381,AQP0202.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Ivatan language -- Dictionaries -- Spanish.']
+990029571540106381,AQP0202.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Vocabulario Ibatán-Español, o sea del dialecto hablado por los naturales de las Islas Batanes y Calayan (Filipinas) [microform] / acopiado y compuesto por varios PP. Dominicoes Españoles, misioneros de aquellas islas ; con prologo de Otto Scheerer."
 990027929150106381,APS8651.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Batak language.']
 990018730900106381,AJA1435.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Ethnology -- Oceania', 'Oceania -- Description and travel', 'Philippines -- Description and travel', 'Borneo -- Description and travel']"
-990002791100106381,ABE5484.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Fry, Joseph, -- 1826-1873.', 'Virginius (Steamer)']"
+990002791100106381,ABE5484.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"title checked: Life of Capt. Joseph Fry, the Cuban martyr. : Being a faithful record of his remarkable career from childhood to the time of his heroic death at the hands of Spanish executioners; recounting his experience as an officer in the U. S. and Confederate navies, and revealing much of the inner history and secret marine service of the late civil war in America / By Jeanie Mort Walker."
 990018709620106381,AHZ9181.0001.001,Virgin Islands,['Virgin Islands'],0,0,0,0,0,1,0,keywords checked: ['United States Virgin Islands.']
 990019366080106381,AJG8108.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Missions -- East Asia.', 'Missions -- Philippines.']"
 990012570310106381,AFJ2377.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Missions -- Philippines', 'Seventh-Day Adventists -- Missions.', 'Philippines.']"
@@ -4116,9 +4116,9 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990016306140106381,AGY6866.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Political science.', 'United States -- Territorial expansion.']"
 990011494300106381,AEX3189.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- History -- 1898-', 'Philippines -- Politics and government -- 1898-1935', 'Philippines -- Foreign relations -- United States.', 'United States -- Foreign relations -- Philippines.']"
 990003224000106381,ABJ9616.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines.', 'United States. -- Philippine Commission (1900-1916)']"
-990015460970106381,AGQ0280.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Iloko language -- Grammar.']
-990027908710106381,APS6596.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Iloko language -- Grammar.']
-990004672040106381,ABZ6532.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Dewey, George, -- 1837-1917.']"
+990015460970106381,AGQ0280.0001.001,Polynesia,['Polynesia'],0,0,0,0,0,0,1,"title checked: Grammatische Skizze der Ilocano-Sprache : mit Ber""ucksichtigung ihrer Beziehungen zu den anderen Sprachen der Malayo-polynesischen Familie / von Harold W. Williams."
+990027908710106381,APS6596.0001.001,Polynesia,['Polynesia'],0,0,0,0,0,0,1,"title checked: Grammatische Skizze der Ilocano-Sprache [microform] : mit Ber""ucksichtigung ihrer Beziehunge zu den anderen Sprachen der Malayo-polynesischen Familie / von Harold W. Williams."
+990004672040106381,ABZ6532.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"title checked: Taking Manila; : or, In the Philippines with Dewey, giving the life and exploits of Admiral George Dewey, U.S.N. / By Henry L. Williams."
 990012570330106381,AFJ2379.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Philippines -- Politics and government', 'United States -- Colonial question']"
 990016307260106381,AGY6978.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Reciprocity (Commerce)', 'United States -- Commerce -- Cuba.', 'Cuba -- Commerce -- United States.']"
 990011516040106381,AEX5432.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['United States -- Colonial question', 'United States -- Territories and possessions.', 'United States -- Insular possessions']"
@@ -4142,7 +4142,7 @@ mms_id,dlxs_id,subject guess,full_tag_list,phillipines_counter,hawaii_counter,gu
 990014473120106381,AGD8662.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,keywords checked: ['Cuba -- History -- To 1810']
 990011531350106381,AEX6994.0001.001,Cuba,['Cuba'],0,0,0,0,1,0,0,"keywords checked: ['Sugar trade -- Cuba.', 'Industries -- Cuba.', 'Cuba -- Economic conditions -- 1918-.', 'United States -- Foreign relations -- Cuba.', 'Cuba -- Foreign relations -- United States.']"
 990012613130106381,AFJ6746.0001.001,Hawaii,['Hawaii'],0,1,0,0,0,0,0,"keywords checked: ['Hawaii -- Description and travel', 'Hawaii -- History']"
-990019285960106381,AJF9929.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,keywords checked: ['Chamorro language -- Texts.']
+990019285960106381,AJF9929.0001.001,Guam,['Guam'],0,0,1,0,0,0,0,title checked: Y cuatro Ebangelio sija yan y Checho y apostoles sija gui Testamento Nuebo y Señotta yan y Sarbadotta si Jesucristo; yan y Salmo sija. Un trinaduse y fino griego yan hebreo gui fino y tano guam pat y chamorro.
 990008083020106381,ADL4452.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Iloko literature -- History and criticism.', 'Iloko literature -- Bibliography.', 'Philippines -- Bibliography.']"
 990018223380106381,AHU9355.0001.001,Philippines,['Philippines'],1,0,0,0,0,0,0,"keywords checked: ['Saints -- Legends.', 'Tagalog language -- Texts.', 'Vicente Ferer, -- Saint.']"
 990038677090106381,AUS0337.0001.001,Unable to Determine,[],0,0,0,0,0,0,0,"keywords checked: ['Spanish-American War, 1898.']"

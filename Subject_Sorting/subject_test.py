@@ -76,9 +76,9 @@ for entry in philamer[1:]:
     #--appending to csv list
     subject_entries.append([entry[0],entry[1],guess, full_tag_list, phillipines_counter, hawaii_counter, guam_counter, puerto_rico_counter, cuba_counter, virgin_islands_counter, polynesia_counter, f"keywords checked: {keywords}"])
 
-#----initial CSV----
+
 subject_entries.insert(0,["mms_id", "dlxs_id", "subject guess", "full_tag_list", "phillipines_counter", "hawaii_counter", "guam_counter", "puerto_rico_counter", "cuba_counter", 'virgin_islands_counter', "polynesia_counter", "checked_string"])
-mu.write_csv("subject_entries.csv", subject_entries)
+
 
 #----starting secondarty title check loop----
 
@@ -156,7 +156,7 @@ for row in subject_entries[1:]:
                     new_row = [entry[0],entry[1],guess, new_full_tag_list, phillipines_counter, hawaii_counter, guam_counter, puerto_rico_counter, cuba_counter, virgin_islands_counter, polynesia_counter, f"title checked: {title}"]
                     subject_entries[subject_entries.index(row)] = new_row
 
-mu.write_csv("edited_subject_entries.csv", subject_entries)
+mu.write_csv("subject_entries.csv", subject_entries)
 
 print("update counter:", update_counter)
 
@@ -182,16 +182,5 @@ for row in subject_entries[1:]:
 
 mu.write_json("full_tag_counts.json", flag_counters)
 
-#----string tags counts----
-string_counters = {}
-for row in subject_entries[1:]:
-    flags = str(row[3])
-    print(flags)
-    if flags in string_counters.keys():
-        string_counters[flags] += 1
-    else:
-        string_counters[flags] = 1
-
-mu.write_json("string_tag_counts.json", string_counters)
 
 print("done")

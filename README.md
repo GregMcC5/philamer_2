@@ -4,7 +4,7 @@
 
 February 2022 - Present. A pilot project remediating the metadata for the University of Michigan's ["The United States and its Territories, 1870 - 1925: The Age of Imperialism"](https://quod.lib.umich.edu/p/philamer/) digital colleciton.
 
-Further documentation on this project can be found in our [report](https://docs.google.com/document/d/15NfpqtLPfcfQ1oiRX9NhGXweel1XqYJVHg5A7OBwCT4/edit#).
+Further context on this project and this collection can be found in our [report](https://docs.google.com/document/d/15NfpqtLPfcfQ1oiRX9NhGXweel1XqYJVHg5A7OBwCT4/edit#).
 ## Authors
 
 - Jackson Huang (huangjq@umich.edu)

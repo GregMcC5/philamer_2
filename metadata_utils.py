@@ -1,37 +1,6 @@
 import csv
 import json
-#--------------------------------------------
-#use with csv
-
-def lang_test(data, languages):
-    """takes csv data, languages list or tuple
-        returns of entries whose language not in language list
-    """
-    language_check_list =[]
-    header = data[0]
-    for row in data:
-        lang_code = row[header.index("008")][-5:-2]
-        if lang_code not in languages:
-            language_check_list.append(row)
-    return language_check_list
-
-def date_test(data, first_year, last_year):
-    """takes csv data, and checks if entries are between entered start and end years.
-        Returns a list of entries outsidde those parameters.
-    """
-    headers = data[0]
-    date_outside_parameters = []
-    for row in data:
-      if "'c':" in row[headers.index("260")]:
-        c_string = row[headers.index("260")].split(":")
-        date_statement = c_string[-1].strip(" ' ").strip("}").strip("'").strip(".").strip("[").strip("]")
-        try:
-            date_statement = int(date_statement)
-            if date_statement < first_year or date_statement > last_year:
-                date_outside_parameters.append(row)
-        except:
-            continue
-    return date_outside_parameters
+from bs4 import BeautifulSoup as BS
 
 def read_csv(filepath, encoding='utf-8', newline='', delimiter=','):
     """
@@ -129,3 +98,38 @@ def write_json(filepath, data, encoding='utf-8', ensure_ascii=False, indent=2):
     with open(filepath, 'w', encoding=encoding) as file_obj:
         json.dump(data, file_obj, ensure_ascii=ensure_ascii, indent=indent)
 
+#----Text Files
+
+def read_text(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            content = file.read()
+        return content
+    except FileNotFoundError:
+        print(f"File not found: {file_path}")
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
+    
+def write_text(filepath, content):
+    try:
+        with open(filepath, 'w') as file:
+            file.write(content)
+        print(f"String written to '{filepath}' successfully.")
+    except Exception as e:
+        print(f"Error writing to '{filepath}': {e}")
+
+#-----XMLs (using BeautifulSoup)
+
+def read_xml(file_path):
+    with open(file_path, 'r', encoding='utf-8') as xml_file:
+        xml_content = xml_file.read()
+
+    return BS(xml_content, 'lxml-xml')
+
+
+def write_xml(xml_data, file_path):
+    soup = BS(xml_data, 'xml')
+    
+    with open(file_path, 'w', encoding='utf-8') as xml_file:
+        xml_file.write(soup.prettify())

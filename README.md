@@ -5,13 +5,16 @@
 February 2022 - Present. A pilot project remediating the metadata for the University of Michigan's ["The United States and its Territories, 1870 - 1925: The Age of Imperialism"](https://quod.lib.umich.edu/p/philamer/) digital colleciton.
 
 Further context on this project and this collection can be found in our [report](https://docs.google.com/document/d/15NfpqtLPfcfQ1oiRX9NhGXweel1XqYJVHg5A7OBwCT4/edit#).
+
 ## Authors
 
 - Jackson Huang (huangjq@umich.edu)
 - Curtis Hunt (huntcu@umich.edu)
 - Gregory McCollum (gregmcc@umich.edu)
 
+## Note
 
+Updated information on how this project handled language metadata updates can be found [here](https://github.com/GregMcC5/philamer2024).
 
 
 ## Workflow
@@ -29,9 +32,3 @@ Each step in our process is separated into its own folder in this repository. Th
 - The **Catalog_Linking** directory contains scripts that develop a CSV of information inlcuding a search URL for the University of Michigan Library catalog on the basis of the title of each record. Some of the main records for this colleciton in the U of M catalog lack a link to the digital collection item. We used these sheets to manually review the catalog search results in Google Sheets to identify these records without digital colleciton links and adding the catalog identification numbers for the corresponding digital collection items.
 
 - In **Subject Sorting** we develop suggested tags for each record on the basis of place. In our subject_test.py we set up a brief series of Regular Expressions corresponding to each of the places represented. Our Regular Expressions sought to capture historical and local vartions in place names ("Puerto Rico"  "Porto Rico"), demonyms ("Puerto Rican", "Puerto Ricans"), and usage of diacritical marks ("Hawaii", "Hawaiʻi"). We then loop through the full collection metadata and search for these expressions in each record's keywords, counting the instances of these terms appearing within the keywords. Our script then suggests a place tag on the basis of which term appears (or appears most) within a records keyword string. For ties, or situtations in which no regualr expression was found, a second loop checking the records titles was conducted as well. The results of these tests can be found in subject_entries.csv, with full tag counts available in subjet_counts.json.
-
-- The folder **Developing_Lang_Suggestions** contains a script marc_map_lang.py which loops through the original DLXS data (dlxs_full.csv for this collection alongside a list of approve MARC languages with their language codes (marc_langs.csv), and flags fields with the "map: Austronesia(Other)" collective code. Then, this script loops through the marc language names and checks for the presence of any of these languages in the record keywords and introduces a suggested new code if a MARC language is found. These intial suggestions are found in map_lang_reccomendations.csv. These informed further language code investigation using OpenRefine. The resutls of that OpenRefine manual review are found in OR_lang.csv, which is merged with the new_full_best_values.csv verison to produce the updated_full_best.csv version of the complete collection metadata.
-
-
-
-
